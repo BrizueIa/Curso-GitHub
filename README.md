@@ -20,8 +20,7 @@ Al finalizar el curso, los estudiantes serán capaces de:
 2. Configurar Git y vincularlo con GitHub para empezar a gestionar repositorios.  
 3. Crear y clonar repositorios en GitHub.  
 4. Utilizar comandos esenciales de Git como `init`, `add`, `commit`, `pull`, y `push`.  
-5. Manejar ramas (branches) y resolver conflictos básicos de merge.  
-6. Colaborar en proyectos compartidos utilizando forks y pull requests.  
+5. Colaborar en proyectos compartidos utilizando forks y pull requests.  
 
 ---
 
