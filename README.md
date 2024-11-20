@@ -25,9 +25,29 @@ Al finalizar el curso, los estudiantes serán capaces de:
 
 ---
 
+---
+
 ## Requisitos Previos
 
-- Tener instalada la versión más reciente de **Git** en su computadora.  
-- Crear una cuenta en [GitHub](https://github.com/) antes del inicio del curso.  
+Antes de asistir al curso, asegúrate de cumplir con los siguientes requisitos:  
+
+1. **Git:**  
+   - Tener instalada la versión más reciente de **Git** en tu computadora.  
+   - Puedes descargarlo desde [git-scm.com](https://git-scm.com/).  
+
+2. **Cuenta de GitHub:**  
+   - Crear una cuenta en [GitHub](https://github.com/).  
+
+3. **Editor de Código:**  
+   - Instalar **Visual Studio Code (VSC)** o cualquier otro editor de texto de tu preferencia.  
+   - Descarga Visual Studio Code desde [code.visualstudio.com](https://code.visualstudio.com/).  
+
+4. **Acceso a Internet Estable:**  
+   - Asegúrate de contar con una conexión a internet estable durante todo el curso para interactuar con GitHub y participar en la reunión virtual.  
+
+5. **Terminal de Comandos:**  
+   - Familiaridad básica con el uso de una terminal o consola (Command Prompt, PowerShell, Terminal de macOS, o una shell en Linux como Bash).  
 
 ---
+
+
